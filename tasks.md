@@ -1,0 +1,6 @@
+- [ ] Task added 
+- [x] Task finished
+- [ ] Task with link [example](example.org)
+- [ ] Task attached to issue #1
+- [ ] Task mentioning myself @rjwvandenberg
+- [ ] :v::smile:
